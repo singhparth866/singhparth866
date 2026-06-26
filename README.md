@@ -64,19 +64,22 @@ Exploit Development           █░░░░░░░░░  Long-Term Goal
 This roadmap reflects the areas I'm actively studying and building through hands-on projects, technical research, and continuous experimentation
 ## 🤝 Connect
 
-I'm always open to discussions about Application Security, Security Engineering, Vulnerability Research, and internship opportunities.
+I'm always open to discussions about **Application Security**, **Security Engineering**, **Vulnerability Research**, and **internship and job opportunities**.
 
 <p align="left">
-  <a href=https://www.linkedin.com/in/parth-singh-6342a23a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 
-  <a href=https://www.instagram.com/parthhhsinghh?igsh=MWsyYTQ4NWdveHMxcw%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-  <a href="mailto:singhparth866@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="https://www.instagram.com/parthhhsinghh/" target="_blank">
+  <img src="https://img.shields.io/badge/Follow%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </p>
+
 
