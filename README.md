@@ -3,7 +3,6 @@
 </p>
 
 # Parth Singh
-# Parth Singh
 
 ### Application Security • Security Engineering • Vulnerability Research
 
