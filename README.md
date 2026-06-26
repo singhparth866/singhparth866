@@ -21,3 +21,24 @@ I enjoy understanding how applications, protocols, and defensive technologies wo
 ## 🚀 Long-Term Goal
 
 To grow into a Vulnerability Researcher and Exploit Developer by building a strong foundation in application security, systems internals, offensive security research, and secure software engineering.
+## ⚙️ Technical Focus
+
+### 🔐 Application Security
+
+OWASP Top 10 • Authentication & Authorization • Session Management • Secure Coding • Vulnerability Analysis
+
+### 🌐 Web Security
+
+HTTP/HTTPS • REST APIs • Cookies • CORS • Web Security Testing
+
+### 🛠 Security Engineering
+
+Python • Burp Suite • OWASP ZAP • Wireshark • Git • Linux • Docker
+
+### 🔬 Research Interests
+
+WAF Fingerprinting • XSS Research • Protocol Analysis • Threat Modeling • Vulnerability Reporting
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,linux,docker,git,flask" />
+</p>
