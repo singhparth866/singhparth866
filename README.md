@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Parth Singh GitHub Banner" width="100%">
+</p>
+
+# Parth Singh
 # Parth Singh
 
 ### Application Security • Security Engineering • Vulnerability Research
