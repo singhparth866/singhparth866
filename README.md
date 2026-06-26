@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/singhparth866/singhparth866/main/assets/banner.png" alt="Parth Singh GitHub Banner" width="100%">
-</p>
 
 ### Application Security • Security Engineering • Vulnerability Research
 
