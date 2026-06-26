@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/banner.png" alt="Parth Singh Banner" width="100%">
+</p>
 ### Application Security • Security Engineering • Vulnerability Research
 
 Computer Engineering graduate building production-quality security tools and research-driven projects focused on web application security, secure software engineering, and vulnerability analysis.
