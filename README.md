@@ -67,11 +67,11 @@ This roadmap reflects the areas I'm actively studying and building through hands
 I'm always open to discussions about Application Security, Security Engineering, Vulnerability Research, and internship opportunities.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/parth-singh-6342a23a4//" target="_blank">
+  <a href=https://www.linkedin.com/in/parth-singh-6342a23a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://instagram.com/https://www.instagram.com/parthhhsinghh?igsh=MWsyYTQ4NWdveHMxcw%3D%3D&utm_source=qr" target="_blank">
+  <a href=https://www.instagram.com/parthhhsinghh?igsh=MWsyYTQ4NWdveHMxcw%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
